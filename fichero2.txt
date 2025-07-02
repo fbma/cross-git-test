@@ -1,0 +1,2 @@
+Otro fichero que se añade inicialmente en github
+v1.0.0
