@@ -1,0 +1,3 @@
+Fichero original repositorio github
+Fecha: 02/07/2025
+Versión: 1.0.0
